@@ -69,3 +69,16 @@ body {
 {
     right: 10%;
 }
+.surrounding-div-ohio{
+    display: flex;
+    width: 50%;
+    height: 2px;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
+.surrounding-div-ohio:nth-child(2)
+{
+    bottom: 30%;
+    right: 10%;
+}
